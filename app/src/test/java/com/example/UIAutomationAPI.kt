@@ -28,8 +28,10 @@ class UIAutomationAPI {
     @Throws(Exception::class)
     fun AM_ExecuteEspressoTest() {
         val path = System.getProperty("user.dir")
-        pathToTestApp=path+"\\build\\outputs\\apk\\androidTest\\debug\\app-debug-androidTest.apk"
-        pathToApp=path+"\\build\\outputs\\apk\\debug\\app-debug.apk"
+        // pathToTestApp=path+"\\build\\outputs\\apk\\androidTest\\debug\\app-debug-androidTest.apk"
+        //pathToApp=path+"\\build\\outputs\\apk\\debug\\app-debug.apk"
+        pathToTestApp="\\bitrise\\src\\app\\build\\outputs\\apk\\androidTest\\debug\\app-debug-androidTest.apk"
+        pathToApp="\\bitrise\\src\\app\\build\\outputs\\apk\\debug\\app-debug.apk"
         println("Working Directory = $pathToApp")
         val app = File(pathToApp)
         val testApp = File(pathToTestApp)
