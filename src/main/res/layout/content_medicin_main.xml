@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context=".MyMedicine" android:id="@+id/coordinatorLayout_2" android:background="#C7EE9F">
+
+    <FrameLayout
+            android:id="@+id/myFragment"
+            android:layout_width="396dp"
+            android:layout_height="598dp"
+            android:layout_above="@+id/actionBtn"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent" android:layout_marginTop="8dp"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent">
+
+
+    </FrameLayout>
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                 xmlns:tools="http://schemas.android.com/tools"
+                 android:layout_width="255dp"
+                 android:layout_height="235dp"
+                 android:background="#CCC"
+                 android:paddingTop="1dp"
+                 android:stretchColumns="0"
+                 android:id="@+id/tlTable01"
+                 android:layout_marginTop="8dp"
+                 android:layout_marginBottom="52dp" app:layout_constraintBottom_toBottomOf="parent"
+                 android:layout_marginEnd="8dp"
+                 app:layout_constraintEnd_toEndOf="parent"
+                 android:layout_marginStart="8dp" app:layout_constraintStart_toStartOf="parent"
+                 app:layout_constraintHorizontal_bias="0.121" app:layout_constraintVertical_bias="0.095"
+                 app:layout_constraintTop_toBottomOf="@+id/second_fragment_text" android:focusable="auto">
+
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp" android:layout_height="531dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Senetizor" android:layout_height="match_parent" android:layout_width="351dp"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp" android:layout_height="531dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Mask -N95" android:layout_height="match_parent" android:layout_width="351dp"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Crocin"/>
+        </TableRow>
+
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Paracitamol"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Bandages"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Sparin releiving gel and sprays"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Dettol"/>
+
+        </TableRow><TableRow
+            android:background="#CCC"
+            android:paddingBottom="1dp"
+            android:paddingRight="1dp">
+        <TextView
+                android:layout_marginLeft="1dp"
+                android:padding="5dp"
+                android:background="#FFF"
+                android:text="Multi-Vitamin Tablets"/>
+
+    </TableRow>
+    </TableLayout>
+
+    <LinearLayout
+            android:id="@+id/actionBtn"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="@+id/myFragment">
+
+
+    </LinearLayout>
+    <CheckedTextView
+            android:fontFamily="cursive"
+            android:text="TIP -:: In case if lockdown situation,store crucial basic selfcare items and  medicines for generic disease like cold and cough.All medicines should be prescribed by docter well in advance."
+            android:layout_width="397dp"
+            android:layout_height="181dp"
+            android:id="@+id/checkedTextView"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="@+id/actionBtn" android:layout_marginBottom="408dp"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
+            app:layout_constraintHorizontal_bias="1.0"/>
+    <ImageView
+            android:layout_width="401dp"
+            android:layout_height="157dp" app:srcCompat="@drawable/medicine"
+            android:id="@+id/imageView4" android:layout_marginTop="116dp"
+            app:layout_constraintTop_toTopOf="@+id/checkedTextView"
+            app:layout_constraintBottom_toBottomOf="@+id/actionBtn" android:layout_marginBottom="8dp"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
+            app:layout_constraintVertical_bias="0.0" android:visibility="visible"/>
+
+</android.support.constraint.ConstraintLayout>

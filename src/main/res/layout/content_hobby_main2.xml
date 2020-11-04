@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#C7EE9F"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context=".MyEntertainment" android:id="@+id/coordinatorLayout_2">
+
+    <CheckedTextView
+            android:fontFamily="cursive"
+            android:text="TIP -:: In such situation like lockdown or reduce going out to shop or play,creates a boredome in life.Dont worry we have some indoor timepass in this app. "
+            android:layout_width="397dp"
+            android:layout_height="181dp"
+            android:id="@+id/checkedTextView"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="@+id/actionBtn" android:layout_marginBottom="392dp"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
+    />
+    <Button
+            android:text="Play Sudoko"
+            android:layout_width="280dp"
+            android:textSize="14sp"
+            android:layout_height="40dp"
+            android:id="@+id/button_game" android:layout_marginTop="8dp"
+            app:layout_constraintTop_toTopOf="@+id/textView2" android:layout_marginBottom="120dp"
+            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintVertical_bias="0.143"
+            android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginStart="8dp"
+            app:layout_constraintHorizontal_bias="0.356" style="@style/Widget.MaterialComponents.Button"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+    <Button
+            android:text="Color Room"
+            android:layout_width="288dp"
+            android:layout_height="56dp"
+            android:id="@+id/button_color" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
+            app:layout_constraintBottom_toBottomOf="parent" android:layout_marginTop="8dp"
+            app:layout_constraintTop_toTopOf="@+id/textView2"
+            android:textSize="14sp"
+            app:layout_constraintHorizontal_bias="0.308" style="@style/Widget.MaterialComponents.Button"
+            app:layout_constraintVertical_bias="0.349" android:layout_marginBottom="180dp"/>
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@drawable/game"
+            android:id="@+id/imageView2" android:layout_marginBottom="316dp"
+            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp" app:layout_constraintStart_toStartOf="parent"
+            android:textSize="14sp"
+            android:layout_marginStart="8dp" app:layout_constraintHorizontal_bias="0.0"/>
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@drawable/play"
+            android:id="@+id/imageView3" app:layout_constraintStart_toStartOf="@+id/imageView2"
+            android:layout_marginStart="8dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp" app:layout_constraintTop_toTopOf="@+id/checkedTextView"
+            android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.959" app:layout_constraintVertical_bias="0.34"/>
+
+
+</android.support.constraint.ConstraintLayout>

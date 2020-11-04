@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/corn"
+        tools:context=".LaunchActivity" android:id="@+id/coordinatorLayout">
+
+
+
+<Button
+            android:text="Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/button"
+            android:layout_marginTop="72dp" app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="24dp"
+            android:layout_marginRight="24dp"/>
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text=""
+            android:ems="10"
+            android:id="@+id/selectGrocery"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintEnd_toStartOf="@+id/button" android:layout_marginRight="8dp"
+            android:layout_marginTop="72dp" app:layout_constraintTop_toTopOf="parent"/>
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:gravity="start|top"
+            android:ems="10"
+            android:id="@+id/listOfGrocerry" android:layout_marginTop="108dp"
+            app:layout_constraintTop_toBottomOf="@+id/selectGrocery" android:layout_marginStart="76dp"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="76dp"/>
+    <Button
+            android:text="Move to MyKitchen"
+            android:layout_width="wrap_content"
+            android:layout_height="44dp"
+            android:id="@+id/button2"
+            app:layout_constraintTop_toBottomOf="@+id/listOfGrocerry" android:layout_marginTop="200dp"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="144dp"
+            android:layout_marginRight="144dp"/>
+
+
+</android.support.constraint.ConstraintLayout>

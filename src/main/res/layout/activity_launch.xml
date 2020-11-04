@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/corn"
+        tools:context=".LaunchActivity" android:id="@+id/coordinatorLayout">
+
+
+    <TextView
+            android:id="@+id/textView2"
+            android:layout_width="402dp"
+            android:layout_height="205dp"
+            android:textSize="14sp"
+            android:textColor="@android:color/background_light"
+            android:text="Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus which was first discovered in china\n"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp" app:layout_constraintTop_toTopOf="parent" android:layout_marginStart="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintVertical_bias="0.314" app:layout_constraintBottom_toTopOf="@+id/button3"/>
+    <TextView
+            android:id="@+id/textView3"
+            android:layout_width="362dp"
+            android:layout_height="179dp"
+            android:textSize="14sp"
+            android:textColor="@android:color/background_light"
+            android:text="The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. As increase rate of cornavirus cases , few countries has already announced lockdown for current situation .In this critical situaltion, we need to take small steps as precuationalry measuure. \n"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp" app:layout_constraintTop_toTopOf="parent" android:layout_marginStart="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintVertical_bias="0.711" app:layout_constraintBottom_toTopOf="@+id/button3"/>
+
+    <Button
+            android:text="Store your Food item"
+            android:textSize="14sp"
+            android:layout_width="328dp"
+            android:layout_height="49dp"
+            android:id="@+id/button3" android:layout_marginTop="404dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="8dp" app:layout_constraintHorizontal_bias="0.119"
+            style="@style/Widget.MaterialComponents.Button"/>
+    <Button
+            android:text="Save Medical Care"
+            android:textSize="14sp"
+            android:layout_width="328dp"
+            android:layout_height="49dp"
+            android:id="@+id/button4"
+            android:layout_marginTop="456dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="8dp" app:layout_constraintHorizontal_bias="0.119"
+            style="@style/Widget.MaterialComponents.Button"/>
+    <Button
+            android:text="Keep your Entertainment items ready "
+            android:textSize="14sp"
+            android:layout_width="328dp"
+            android:layout_height="49dp"
+            android:id="@+id/button5" android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent" android:layout_marginTop="8dp"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.838"
+            android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginStart="8dp" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.119" style="@style/Widget.MaterialComponents.Button"/>
+    <Button
+            android:text="Update yourself with latest information"
+            android:textSize="14sp"
+            android:layout_width="328dp"
+            android:layout_height="49dp"
+            android:id="@+id/button6" app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintVertical_bias="0.92" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="8dp" app:layout_constraintHorizontal_bias="0.119"
+            style="@style/Widget.MaterialComponents.Button"/>
+
+</android.support.constraint.ConstraintLayout>

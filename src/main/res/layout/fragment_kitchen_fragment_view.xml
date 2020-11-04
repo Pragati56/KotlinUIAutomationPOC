@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto"
+                                             xmlns:tools="http://schemas.android.com/tools"
+                                             android:orientation="vertical"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="match_parent"
+                                             app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                                             android:gravity="center" android:background="#C7EE9F">
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                 xmlns:tools="http://schemas.android.com/tools"
+                 android:layout_width="262dp"
+                 android:layout_height="313dp"
+                 android:background="#CCC"
+                 android:paddingTop="1dp"
+                 android:stretchColumns="0"
+                 android:id="@+id/tlTable01"
+                 android:layout_marginTop="8dp"
+                 android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
+                 android:layout_marginEnd="8dp"
+                 app:layout_constraintEnd_toEndOf="parent"
+                 android:layout_marginStart="8dp" app:layout_constraintStart_toStartOf="parent"
+                 app:layout_constraintHorizontal_bias="0.496" app:layout_constraintVertical_bias="0.395"
+                 app:layout_constraintTop_toBottomOf="@+id/second_fragment_text">
+
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp" android:layout_height="531dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Salt and sugar" android:layout_height="match_parent" android:layout_width="351dp"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Oil"/>
+        </TableRow>
+
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Vegetables"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Fruits"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Dairy Items"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Cereals"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Canned Food"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Pulses"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Eggs/Bread"/>
+
+        </TableRow>
+        <TableRow
+                android:background="#CCC"
+                android:paddingBottom="1dp"
+                android:paddingRight="1dp">
+            <TextView
+                    android:layout_marginLeft="1dp"
+                    android:padding="5dp"
+                    android:background="#FFF"
+                    android:text="Oats/Cornflakes"/>
+
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+            android:id="@+id/second_fragment_text"
+            android:layout_width="340dp"
+            android:layout_height="39dp"
+            android:text=""
+            android:background="@android:color/background_light"
+            android:textColor="@color/colorPrimary"
+            android:textSize="24dp"
+            android:layout_marginEnd="36dp" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent" android:layout_marginTop="8dp"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.118"/>
+
+</android.support.constraint.ConstraintLayout>
