@@ -47,7 +47,7 @@ class UIAutomationAPI {
             .asString()
 
         System.out.println(response.code)
-        System.out.pdrintln(response.getBody())
+        System.out.println(response.getBody())
         if (response.code!== 200) {
             throw Exception("HTTP response not valid - " + response.getBody())
         }
