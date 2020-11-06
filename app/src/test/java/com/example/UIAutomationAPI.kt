@@ -30,8 +30,8 @@ class UIAutomationAPI {
         val path = System.getProperty("user.dir")
         // pathToTestApp=path+"\\build\\outputs\\apk\\androidTest\\debug\\app-debug-androidTest.apk"
         //pathToApp=path+"\\build\\outputs\\apk\\debug\\app-debug.apk"
-        pathToTestApp="\\bitrise\\src\\app\\apk\\app-debug-androidTest.apk"
-        pathToApp="\\bitrise\\src\\app\\apk\\app-debug.apk"
+        pathToTestApp="\\app\\apk\\app-debug-androidTest.apk"
+        pathToApp="\\app\\apk\\app-debug.apk"
         println("Working Directory = $pathToApp")
         val app = File(pathToApp)
         val testApp = File(pathToTestApp)
