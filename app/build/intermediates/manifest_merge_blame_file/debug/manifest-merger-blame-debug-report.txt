@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sampleapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:6:22-64
+12
+13    <application
+13-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:8:5-53:19
+14        android:allowBackup="true"
+14-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:9:13-39
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.0.0] C:\Users\SinghP90\.gradle\caches\transforms-2\files-2.1\4a4b2b24eb61ce7039d7c05f56df5b38\core-1.0.0\AndroidManifest.xml:22:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:10:13-47
+18        android:label="@string/app_name"
+18-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:11:13-45
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:12:13-58
+20        android:supportsRtl="true"
+20-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:13:13-39
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:14:13-44
+22        <activity
+22-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:17:9-21:20
+23            android:name="com.example.sampleapplication.Main3Activity"
+23-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:18:17-46
+24            android:label="@string/title_activity_main3"
+24-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:19:17-61
+25            android:theme="@style/AppTheme.NoActionBar" >
+25-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:20:17-60
+26        </activity>
+27        <activity
+27-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:22:9-25:20
+28            android:name="com.example.sampleapplication.EnteratinmentRoom"
+28-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:23:17-50
+29            android:label="Welcome to my Enteratinment Room " >
+29-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:24:17-66
+30        </activity>
+31        <activity
+31-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:26:9-29:20
+32            android:name="com.example.sampleapplication.Information"
+32-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:27:17-44
+33            android:label="Update your self with latest information" >
+33-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:28:17-73
+34        </activity>
+35        <activity
+35-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:30:9-33:20
+36            android:name="com.example.sampleapplication.KitchenMain3Activity"
+36-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:31:17-53
+37            android:label="Welcome to my Kitchen" >
+37-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:32:17-54
+38        </activity>
+39        <activity
+39-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:34:9-37:20
+40            android:name="com.example.sampleapplication.MyMedicine"
+40-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:35:17-43
+41            android:label="Store some basic medicines" >
+41-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:36:17-59
+42        </activity>
+43        <activity
+43-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:38:9-41:20
+44            android:name="com.example.sampleapplication.MyEntertainment"
+44-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:39:17-48
+45            android:label="@string/title_activity_enteratinment_room" >
+45-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:40:17-74
+46        </activity>
+47        <activity
+47-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:42:9-52:20
+48            android:name="com.example.sampleapplication.LaunchActivity"
+48-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:43:17-47
+49            android:label="Covid-19 Precautions" >
+49-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:44:17-53
+50            <intent-filter>
+50-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:45:13-50:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:46:17-68
+51-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:46:25-66
+52                <action android:name="android.intent.action.VIEW" />
+52-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:47:17-68
+52-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:47:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:49:17-76
+54-->C:\Users\SinghP90\Desktop\Core Innovation\SampleApplication\app\src\main\AndroidManifest.xml:49:27-74
+55            </intent-filter>
+56        </activity>
+57    </application>
+58
+59</manifest>

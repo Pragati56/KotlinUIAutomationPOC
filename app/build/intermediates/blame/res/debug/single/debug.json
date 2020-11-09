@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_launch.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\activity_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_enteratinment_room.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\content_enteratinment_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kitchen.PNG.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\drawable\\kitchen.PNG"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.PNG.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\drawable\\play.PNG"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_launch.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\content_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game.PNG.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\drawable\\game.PNG"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_information.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\activity_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_kitchen_main3.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\kitchen_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kitchen.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\fragment_kitchen.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kitchen_fragment_view.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\fragment_kitchen_fragment_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main3.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\content_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_hobby_main2.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\content_hobby_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_launch.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\main_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enteratinment_room.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\activity_enteratinment_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medicine.PNG.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\drawable\\medicine.PNG"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_capture.PNG.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\drawable\\capture.PNG"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_medicin_main.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\content_medicin_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_information.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\content_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_splash.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\content_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.PNG.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\drawable\\splash.PNG"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_kitchen_main3.xml.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\layout\\content_kitchen_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_corn.PNG.flat",
+        "source": "C:\\Users\\SinghP90\\Desktop\\Core Innovation\\SampleApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\corn.PNG"
+    }
+]
