@@ -11,9 +11,9 @@ import org.json.JSONObject
 
 class UIAutomationAPI {
     var urlBase =
-        "https://testcloud.vodafone.com/" // modify hostname and port as applicable your environment
+        "https://vfdevicecloud.vodafone.com/" // modify hostname and port as applicable your environment
     var stGridKey =
-        "eyJhbGciOiJIUzI1NiJ9.eyJ4cC51IjoyODkxMDEsInhwLnAiOjIsInhwLm0iOjE2MDAwNjIwNzQyMzQsImV4cCI6MTkxNTQyMjA3NCwiaXNzIjoiY29tLmV4cGVyaXRlc3QifQ.6DD9Cm4xU6zxhrse8KtQwfcySIaXB0mp8leRp0ErzlM" //seetest key access
+        "eyJhbGciOiJIUzI1NiJ9.eyJ4cC51IjoxNTMwNzAzLCJ4cC5wIjoyLCJ4cC5tIjoxNjA0MzIxNzAxMjcyLCJleHAiOjE5MTk2ODE3MDEsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.UWag3EOy47lbwr_bKj9kTSzKylwN0XW0I6olWa9faCk" //seetest key access
     var url = "$urlBase/api/v1/test-run/execute-test-run"
 
  /*   var pathToTestApp =
@@ -41,7 +41,7 @@ class UIAutomationAPI {
             "Bearer $stGridKey"
         ) .field("executionType", "espresso")
             .field("runningType", "fastFeedback")
-            .field("deviceQueries", "@name='Mate20Pro'")
+            .field("deviceQueries", "@name='Samsung Galaxy A50 --C19'")
             .field("creationTimeout", "60000")
             .field("useUIAutomator", "true")
             .field("app", app)
